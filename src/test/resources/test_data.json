@@ -1,0 +1,643 @@
+[
+  {
+    "org1": [
+      {
+        "paramName1": [
+          {
+            "paramVal1": {
+              "segmentId": "seg_1234"
+            }
+          },
+          {
+            "paramVal2\nparamVal3\nparamVal4\nparamVal5": {
+              "segmentId": "intr.edu"
+            }
+          },
+          {
+            "paramVal6": {
+              "segmentId": "dem.infg.m"
+            }
+          },
+          {
+            "paramVal6": {
+              "segmentId": "intr.heal"
+            }
+          },
+          {
+            "paramVal6": {
+              "segmentId": "dem.infg.f"
+            }
+          }
+        ]
+      },
+      {"testedu": [
+          {
+            "": {
+              "segmentId": "n277"
+            }
+          }
+        ]
+      },
+      {
+        "sid": [
+          {
+            "": {
+              "segmentId": "dem.life.expat"
+            }
+          }
+        ]
+      },
+      {
+        "gen": [
+          {
+            "Female": {
+              "segmentId": "dem.g.f"
+            }
+          },
+          {
+            "Male": {
+              "segmentId": "dem.g.m"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "6lkb2cv": [
+      {
+        "Edu": [
+          {
+            "high_school": {
+              "segmentId": "intr.edu.scho"
+            }
+          },
+          {
+            "bachelors\ngraduate\nhigh_school\nsome_college": {
+              "segmentId": "intr.edu"
+            }
+          }
+        ]
+      },
+      {
+        "testedu": [
+          {
+            "": {
+              "segmentId": "n277"
+            }
+          }
+        ]
+      },
+      {
+        "sid": [
+          {
+            "": {
+              "segmentId": "dem.life.expat"
+            }
+          }
+        ]
+      },
+      {
+        "gen": [
+          {
+            "Female": {
+              "segmentId": "dem.g.f"
+            }
+          },
+          {
+            "Male": {
+              "segmentId": "dem.g.m"
+            }
+          }
+        ]
+      },
+      {
+        "sub": [
+          {
+            "buying": {
+              "segmentId": "dem.life.homebuy"
+            }
+          },
+          {
+            "renting": {
+              "segmentId": "dem.life.renter"
+            }
+          },
+          {
+            "student_finance": {
+              "segmentId": "intr.bizfin"
+            }
+          },
+          {
+            "courses_Workshops\ncourses_workshops": {
+              "segmentId": "intr.edu.cont"
+            }
+          },
+          {
+            "kids": {
+              "segmentId": "dem.life.kid"
+            }
+          },
+          {
+            "pets": {
+              "segmentId": "dem.life.petown"
+            }
+          },
+          {
+            "home": {
+              "segmentId": "intr.reales"
+            }
+          },
+          {
+            "Legal": {
+              "segmentId": "dem.emp.leg"
+            }
+          },
+          {
+            "Pharmaceutical / Bio-tech": {
+              "segmentId": "dem.emp.heal-med-phar"
+            }
+          },
+          {
+            "Administrative": {
+              "segmentId": "dem.emp.admin-sec"
+            }
+          },
+          {
+            "Arts / Entertainment / Publishing": {
+              "segmentId": "dem.emp.adv-art-med-ent"
+            }
+          },
+          {
+            "Marketing": {
+              "segmentId": "dem.emp.mkt"
+            }
+          },
+          {
+            "Non-Profit  / Voluntary jobs / Internship": {
+              "segmentId": "dem.emp.vol-char-soc-wrk"
+            }
+          },
+          {
+            "Engineering / Architecture": {
+              "segmentId": "dem.emp.con-arch-des"
+            }
+          },
+          {
+            "Engineering / Architecture": {
+              "segmentId": "dem.emp.eng"
+            }
+          },
+          {
+            "Sales": {
+              "segmentId": "dem.emp.sale"
+            }
+          },
+          {
+            "Construction": {
+              "segmentId": "dem.emp.con-arch-des"
+            }
+          },
+          {
+            "Education / Training": {
+              "segmentId": "dem.emp.edu-chld-trn"
+            }
+          },
+          {
+            "Healthcare / Medical": {
+              "segmentId": "dem.emp.heal-med-phar"
+            }
+          },
+          {
+            "Hospitality / Travel": {
+              "segmentId": "dem.emp.hosp-trv-tour"
+            }
+          },
+          {
+            "Human Resources": {
+              "segmentId": "dem.emp.hr-rec"
+            }
+          },
+          {
+            "IT": {
+              "segmentId": "dem.emp.it"
+            }
+          },
+          {
+            "Restaurant / Food Service": {
+              "segmentId": "dem.emp.fs"
+            }
+          },
+          {
+            "Retail": {
+              "segmentId": "dem.emp.ret"
+            }
+          },
+          {
+            "Upper Management / Consulting": {
+              "segmentId": "dem.emp.exec-stg-mgt"
+            }
+          },
+          {
+            "Transportation / Logistics": {
+              "segmentId": "dem.emp.log-sup-tran"
+            }
+          },
+          {
+            "Banking / Loans": {
+              "segmentId": "dem.emp.b-fin"
+            }
+          },
+          {
+            "Manufacturing / Mechanical": {
+              "segmentId": "dem.emp.man-ind"
+            }
+          },
+          {
+            "Law Enforcement / Security": {
+              "segmentId": "dem.emp.sec-proc-serv"
+            }
+          },
+          {
+            "Insurance": {
+              "segmentId": "dem.emp.ins-sup"
+            }
+          },
+          {
+            "Real Estate": {
+              "segmentId": "dem.emp.prop-real"
+            }
+          },
+          {
+            "housing\nHouse": {
+              "segmentId": "int.estate"
+            }
+          },
+          {
+            "Office": {
+              "segmentId": "int.estate.comm"
+            }
+          },
+          {
+            "groups_and_clubs": {
+              "segmentId": "intr.enter"
+            }
+          },
+          {
+            "education": {
+              "segmentId": "intr.edu"
+            }
+          },
+          {
+            "fitness_sports": {
+              "segmentId": "intr.sport"
+            }
+          },
+          {
+            "dining_cuisine": {
+              "segmentId": "intr.food"
+            }
+          },
+          {
+            "pets_list": {
+              "segmentId": "dem.life.petown"
+            }
+          },
+          {
+            "arts_culture": {
+              "segmentId": "intr.cult"
+            }
+          },
+          {
+            "groups_and_clubs_list": {
+              "segmentId": "intr.enter"
+            }
+          },
+          {
+            "student-jobs_list": {
+              "segmentId": "intr.job"
+            }
+          },
+          {
+            "travel_tourism": {
+              "segmentId": "intr.travel"
+            }
+          },
+          {
+            "buying_list": {
+              "segmentId": "dem.life.homebuy"
+            }
+          },
+          {
+            "travel_tourism_list": {
+              "segmentId": "intr.travel"
+            }
+          },
+          {
+            "arts_culture_list": {
+              "segmentId": "intr.cult"
+            }
+          },
+          {
+            "renting_list": {
+              "segmentId": "dem.life.renter"
+            }
+          },
+          {
+            "children-parenting_": {
+              "segmentId": "intr.par"
+            }
+          },
+          {
+            "fitness_sports_list": {
+              "segmentId": "intr.sport"
+            }
+          },
+          {
+            "family_and_kids": {
+              "segmentId": "dem.life.kid"
+            }
+          },
+          {
+            "health_and_fitness": {
+              "segmentId": "intr.heal"
+            }
+          },
+          {
+            "courses_workshops_list": {
+              "segmentId": "intr.edu.cont"
+            }
+          },
+          {
+            "employment": {
+              "segmentId": "intr.job"
+            }
+          },
+          {
+            "cinema_review": {
+              "segmentId": "intr.enter.mov"
+            }
+          },
+          {
+            "finance_and_business": {
+              "segmentId": "intr.bizfin"
+            }
+          },
+          {
+            "dining_cuisine": {
+              "segmentId": "intr.food.rest"
+            }
+          },
+          {
+            "higher_education": {
+              "segmentId": "intr.edu.high"
+            }
+          },
+          {
+            "family_and_kids": {
+              "segmentId": "intr.par"
+            }
+          },
+          {
+            "languages": {
+              "segmentId": "intr.edu.cont"
+            }
+          },
+          {
+            "pre_school": {
+              "segmentId": "intr.edu.pre"
+            }
+          },
+          {
+            "pre_school_list": {
+              "segmentId": "intr.edu.pre"
+            }
+          },
+          {
+            "school": {
+              "segmentId": "intr.edu.scho"
+            }
+          },
+          {
+            "school_list": {
+              "segmentId": "intr.edu.scho"
+            }
+          },
+          {
+            "higher_education_list": {
+              "segmentId": "intr.edu.high"
+            }
+          },
+          {
+            "children-parenting_\nfamily\nfamily_and_kids\nfamily_and_kinds\nkids\nkids_list\npre_school\npre_school_archive\npre_school_list\nschool\nschool_list": {
+              "segmentId": "dem.life.kid"
+            }
+          },
+          {
+            "school": {
+              "segmentId": "dem.life.kid"
+            }
+          },
+          {
+            "languages_list": {
+              "segmentId": "intr.edu.cont"
+            }
+          },
+          {
+            "housing\nHouse": {
+              "segmentId": "intr.reales"
+            }
+          },
+          {
+            "cinema_review_list ": {
+              "segmentId": "intr.enter"
+            }
+          },
+          {
+            "cinema_review_list": {
+              "segmentId": "intr.enter.mov"
+            }
+          },
+          {
+            "cinema_review": {
+              "segmentId": "intr.enter"
+            }
+          },
+          {
+            "pre_school_archive ": {
+              "segmentId": "intr.edu.pre"
+            }
+          },
+          {
+            "children-parenting_\nfamily\nfamily_and_kids\nfamily_and_kinds\nkids\nkids_list\npre_school\npre_school_archive\npre_school_list\nschool\nschool_list": {
+              "segmentId": "intr.par"
+            }
+          },
+          {
+            "kids_list\npre_school_archive ": {
+              "segmentId": "dem.life.kid"
+            }
+          },
+          {
+            "renting_archive": {
+              "segmentId": "dem.life.renter"
+            }
+          },
+          {
+            "buying_archive": {
+              "segmentId": "dem.life.homebuy"
+            }
+          },
+          {
+            "student-jobs_archive": {
+              "segmentId": "intr.job"
+            }
+          }
+        ]
+      },
+      {
+        "ctg": [
+          {
+            "news%E2%8A%82=local_news\nnewsâ…≠&=local_news\nnews_focus\n": {
+              "segmentId": "intr.enter.new"
+            }
+          },
+          {
+            "housing\nHouse": {
+              "segmentId": "intr.reales"
+            }
+          },
+          {
+            "finance_business": {
+              "segmentId": "intr.bizfin"
+            }
+          },
+          {
+            "education": {
+              "segmentId": "intr.edu"
+            }
+          },
+          {
+            "employment": {
+              "segmentId": "intr.job"
+            }
+          },
+          {
+            "family": {
+              "segmentId": "intr.par"
+            }
+          },
+          {
+            "housing\nHouse": {
+              "segmentId": "int.estate"
+            }
+          },
+          {
+            "currency": {
+              "segmentId": "int.finan"
+            }
+          },
+          {
+            "news": {
+              "segmentId": "intr.enter.new"
+            }
+          },
+          {
+            "job_search\nJob\n": {
+              "segmentId": "intr.job"
+            }
+          },
+          {
+            "health_fitness": {
+              "segmentId": "intr.heal"
+            }
+          },
+          {
+            "museum_tickets": {
+              "segmentId": "intr.enter"
+            }
+          },
+          {
+            "hotels": {
+              "segmentId": "intr.travel"
+            }
+          },
+          {
+            "travel_tourism_archive": {
+              "segmentId": "intr.travel"
+            }
+          },
+          {
+            "news_focus_archive": {
+              "segmentId": "intr.enter.new"
+            }
+          },
+          {
+            "community_news": {
+              "segmentId": "intr.enter.new"
+            }
+          },
+          {
+            "education?": {
+              "segmentId": "intr.edu"
+            }
+          },
+          {
+            "european_news": {
+              "segmentId": "intr.enter.new"
+            }
+          },
+          {
+            "discussion_forums\nfamily\nleisure\nbanners_and_widgets\nstudent-portal\nuser\ncommon\nchannel\nask\nhealth_fitness\nhotels\nphone\nnews_focus_archive\nwhats-on-list\nwhats-on\nsurvival\nessentials_moving_to\nhr\nlifestyle_leisure\nmain\neuropean_news_archive\ncommunity_focus_archive\nfinance_business\ntext\nlistings\nask_expert_search\nintro\nnews\njob_search\nstudent\nhousing\ndating_sites\nlistingsdetails\nask_expert\ncountry_news\nclassifieds\nlifestyle_leisure?\nnews?\nlistings?\nuser?\ntext?\nhousing_search\nleisure?\neducation?\nintro?\nessentials_moving_to?\ncommunity?\neuropean_news\ngroups_and_clubs\npets\npre_school\nJob": {
+              "segmentId": "dem.life.expat"
+            }
+          }
+        ]
+      },
+      {
+        "ag": [
+          {
+            "18\n19\n20": {
+              "segmentId": "dem.ag.18-20"
+            }
+          },
+          {
+            "21\n22\n23\n24": {
+              "segmentId": "dem.ag.21-24"
+            }
+          },
+          {
+            "18\n19\n20\n21\n22\n23\n24": {
+              "segmentId": "dem.ag.18-24"
+            }
+          },
+          {
+            "25\n26\n27\n28\n29\n30\n31\n32\n33\n34": {
+              "segmentId": "dem.ag.25-34"
+            }
+          },
+          {
+            "35\n36\n37\n38\n39\n40\n41\n42\n43\n44": {
+              "segmentId": "dem.ag.35-44"
+            }
+          },
+          {
+            "45\n46\n47\n48\n49\n50\n51\n52\n53\n54": {
+              "segmentId": "dem.ag.45-54"
+            }
+          },
+          {
+            "55\n56\n57\n58\n59\n60\n61\n62\n63\n64": {
+              "segmentId": "dem.ag.55-64"
+            }
+          },
+          {
+            "65\n66\n67\n68\n69\n70\n71\n72\n73\n74\n75\n76\n77\n78\n79\n80\n81\n82\n83\n84\n85\n86\n87\n88\n89\n90\n91\n92\n93\n94\n95\n96\n97\n98\n99": {
+              "segmentId": "dem.ag.65+"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
