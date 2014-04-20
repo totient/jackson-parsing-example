@@ -1,7 +1,5 @@
-package com.eyeota.codingfun.cache.stream;
+package com.totient.cache;
 
-import com.eyeota.codingfun.cache.LookupCache;
-import com.eyeota.codingfun.cache.SegmentConfig;
 import java.util.List;
 import java.util.Map;
 

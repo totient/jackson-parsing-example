@@ -1,4 +1,4 @@
-package com.eyeota.codingfun.cache;
+package com.totient.cache;
 
 public class SegmentConfig {
   private String segmentId;

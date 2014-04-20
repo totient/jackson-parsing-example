@@ -1,4 +1,4 @@
-package com.eyeota.codingfun.cache;
+package com.totient.cache;
 
 /**
  * Interface to be implemented by your solution

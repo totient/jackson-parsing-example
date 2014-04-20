@@ -1,14 +1,12 @@
-package com.eyeota.codingfun.cache.stream;
+package com.totient.cache;
 
-import com.eyeota.codingfun.cache.LookupCache;
-import com.eyeota.codingfun.cache.SegmentConfig;
 import java.util.ArrayList;
 import java.util.List;
 import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-public class StreamLookupCacheTest {
+public class LookupStreamMruCacheTest {
 
   LookupCache lookupCache = null;
 

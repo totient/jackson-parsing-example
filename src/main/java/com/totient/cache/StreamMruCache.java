@@ -1,6 +1,5 @@
-package com.eyeota.codingfun.cache.stream;
+package com.totient.cache;
 
-import com.eyeota.codingfun.cache.SegmentConfig;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
